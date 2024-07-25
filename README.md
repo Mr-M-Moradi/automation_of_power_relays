@@ -13,3 +13,21 @@
 ![2](https://github.com/user-attachments/assets/6ded4369-da43-4bce-b719-2107e854bbe8)
 <br>
 همچنین قابلیت انتقال اطلاعات بصورت مستقیم از جداول فایل های اکسل به دیتابیس برنامه وجود دارد
+<br>
+بخش جستجو بر دو اساس نام و نشان پست ویا بر اساس id :
+<br>
+![3](https://github.com/user-attachments/assets/1743dcd0-8a85-4141-8880-4c61fa9eb8e9)
+<br>
+دو فرم رله اولیه و ثانویه، بهینه شده برای حداقل خطای کاربر و با قابلیت ذخیره ی فرم جدید یا بروزرسانی فرم قدیم :
+<br>
+![4](https://github.com/user-attachments/assets/56761da4-de4c-480f-80a4-42f387fd776b)
+<br>
+دو فرم گزارش گیری شرطی ویا بدون شرط و یا در یک بازه و بین دو تاریخ مشخص در قالب جداول و امکان مشخص کردن نوع گزارش :
+<br>
+![7](https://github.com/user-attachments/assets/3b49d0b8-102a-4b98-aada-d8a40f2e4237)
+![6](https://github.com/user-attachments/assets/98df4f5b-3b9b-46d6-8f74-62a9ba7604e2)
+با دیت پیکر اختصاصی
+<br>
+خروجی در قالب جداول :
+<br>
+![9](https://github.com/user-attachments/assets/6f606846-ec42-4249-9225-b963556a13b5)
